@@ -1,2 +1,2 @@
-# food-delivery-website
-A collaborative mini-project for web development workshop. This site allows users to browse food items, manage a shopping cart ,and simulate a checkout experience using frontend technologies.
+# 🕹️ Arcade Zone
+Arcade Zone brings the nostalgia of classic games right to your browser. Whether you're challenging a friend or testing your luck against the computer, there's something for everyone. No downloads, no sign-ups — just pure fun.
